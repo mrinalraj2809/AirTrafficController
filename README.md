@@ -12,7 +12,9 @@ DATA STRUCTURE USED
     • Structures
     
 The Data structures used in the programs are:
-    A. LINKED LIST:
+    
+A. LINKED LIST:
+
 Linked List is a linear data structure and it is very common data structure which consists of group of nodes in a sequence which is divided in two parts. Each node consists of its own data and the address of the next node and forms a chain. Linked Lists are used to create trees and graphs.
 
 Disadvantages of Linked Lists
@@ -26,7 +28,8 @@ Applications of Linked Lists
     • In Linked Lists we don't need to know the size in advance.
 
 
-    B. STRUCTURES:
+B. STRUCTURES:
+
 Structure is a collection of different data types under a single name.
 For example: You want to store some information about a person: his/her name, citizenship number and salary. You can easily create different variables name cityno to store these information separately.
 However, in the future, you would want to store information about multiple persons. Now, you'd need to create different variables for each information per person: name1, citNo1, salary1, name2, citNo2, salary2
