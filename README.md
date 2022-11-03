@@ -37,10 +37,15 @@ You can easily visualize how big and messy the code would look. Also, since no r
 A better approach will be to have a collection of all related information under a single name Person, and use it for every person. Now, the code looks much cleaner, readable and efficient as well.
 This collection of all related information under a single name Person is a structure.
 
+Output:
+1. HomeTerminal
 ![HomeTerminal](https://user-images.githubusercontent.com/37181989/199709664-94cedcce-f5e7-4a4f-afac-58d823897038.png)
+2. Choice Menu
 ![Choice Menu](https://user-images.githubusercontent.com/37181989/199709704-1f370642-9d44-44e6-89df-fe25684762f3.png)
+3. Data Entered
 ![Data Entered](https://user-images.githubusercontent.com/37181989/199709751-a4b93088-7f23-43d7-b4f2-059167bc9a06.png)
+4. Asking for Takeoff
 ![Asking for takeoff](https://user-images.githubusercontent.com/37181989/199709779-43cec7d6-4364-4290-9eb8-7a7b8532a65c.png)
-
+5. Asking for Landing
 ![Asking for landing](https://user-images.githubusercontent.com/37181989/199709819-00b59b37-0e39-428b-9159-e08313cb7280.png)
 
